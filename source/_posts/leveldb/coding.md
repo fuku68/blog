@@ -1,7 +1,7 @@
 ---
-title: LevelDBの数値データの永続化
+title: LevelDBでの数値データの永続化
 tags: LevelDB
-date: 2017-01-11 17:49:22
+date: 2017-01-11
 ---
 
 
